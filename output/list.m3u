@@ -767,11 +767,6 @@ https://abndy7jaaaaaaaamb5sbzman2g3xq.bia-cf.live.pv-cdn.net/lhr-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key={"0c011c9efdc1dee5e65d113a90597962":"942a6062bb2bb56401163c75b6e45e2d"}
 https://abndy7jaaaaaaaamb5sbzman2g3xq.bia-cf.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/yatl59fmlm/out/v1/a0608cf26704427689b5386e1142e474/cenc.mpd
 
-#EXTINF:-1 group-title="DAZN LINEARI" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/dazn.sport1.png?raw=true" tvg-id="DAZN.1.it.it",DAZN 1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK )
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-ak-livedazn.akamaized.net/@st%3D1780999211~exp%3D1781085611~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dproto%3Ddash%23country%3Dit%23asn%3D3269%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3Da2661d11d3873b20581fe5ef4c9a249c6b332aa03d63cf2c15dbbd76421427c3/dash/dazn-linear-206/stream.mpd?p=tv
 
 #EXTINF:-1 group-title="DAZN LINEARI" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/dazn.sport1.png?raw=true" tvg-id="Inter.TV.it",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
