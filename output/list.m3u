@@ -935,6 +935,11 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781180657~exp%3D1781267057~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=e8d40667da28586dab3f05fb4731d34e:dd9deabb9d830b8d7c34242e0bf2a18b
 https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODEyNjcxNTAsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiZmI3NTBkOTAzYmViOWU4Zjk2M2Q5NTFhMzM2N2M1MGIxMzg5OTBhOCIsInNzaWQiOiJjNDU1YjBiNzY1ZGIiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3ODExODA3NTB9.lUk7ZoFRD1Cw7gK-8zu7QoyWPY6wS8r39G7iU6uTwK0/wdc3oyzfrt01jsnibld6lhzs/web/stream.mpd?channel=5062&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 group-title="DAZN COPPA DEL MONDO FIFA" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8w3tl1ts24seujntttbm172lq_image-header_pIt_1781129111000/fill/none/top/none/100/1280/720/png/image",Messico - Sudafrica
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e702ae824b45ff389244e09bf0aa9cb:e419f6cd4e4aa6b43548252a01fe8cd5
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781195104~exp%3D1781281504~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dcf82757f8b54f1feaaea9896ef3ebc6f2d422607cc2d3f9d7ae4929b49e0b148%23wm%3D0~hmac%3D9d831e15310f71fd8297d09b9ed57e103342474aa4e2d375db4aa6218b97b89c/1oern5ek6yjfe1s08ko8pd0396/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0516fc1198cb33a1b5b42aef856169d7":"9c9b3cfd10c043c849897e61e53ec166"}
