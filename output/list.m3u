@@ -604,6 +604,24 @@ https://g004-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1781244034_s~5124a
 https://g004-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1781244034_s~6a435a02-c21e-4c0b-a6e1-f2340ad92e9d_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_l~55_x~10015133a840d4fdbff892e221d35562c710e17413f7f864ea4536de2c01826a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(boomerang)/master_2hr-all.mpd?t=v2&c3.ri=6a2a40f2_Q1ZYMDc_0_QUtBTUFJ_02c1a2b49aca:0&c3.ri=6a2a40f2_Q1ZYMDc_0_QUtBTUFJ_02c1a2b49aca:0
 
 
+#EXTINF:-1 tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2022/01/LaCTv_Quadro.png" group-title="REGIONALI",LaC TV (CALABRIA)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2023/02/OnAir-icon.png" group-title="REGIONALI",LaC On Air (CALABRIA)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms-v1.lacplay.it/wp-content/uploads/2024/08/LaC-Play-Quadro-LaC-Network.jpg" group-title="REGIONALI",LaC Network (CALABRIA)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.videocalabria.tv/assets/images/vc-logo.svg" group-title="REGIONALI",Video Calabria (CALABRIA)
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/STREAMING_AS_14.png" group-title="REGIONALI",Antenna Sud (PUGLIA)
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://globaluserfiles.com/media/284952_77f4a94b9b13659c37dc3bdf2cc5f2079f717cc4.png/v1/w_0,h_59/antennasicilia_logo_white.png" group-title="REGIONALI",Antenna Sicilia (SICILIA)
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+
 #EXTINF:-1 group-title="CACCIA E PESCA" tvg-logo="https://www.cacciaepesca.tv/themes/cp/assets/img/logo_grigio_210.png" tvg-id="CACCIA.e.Pesca.it",CACCIA e Pesca
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie=CloudFront-Key-Pair-Id=KW3JO22BKUDKB; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNhY2NpYS5jYWNjaWFlcGVzY2EudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTE5NzQwNH19fV19; CloudFront-Signature=ePqoJj2Hb12QuCcVaJhy-wduhlT-8m-TI3ZvnzzSOIESVcbBTuikDvNgzDyO706MFTRfsAkW5SB4LubhXRr1fmLRJrRRzs4aCvbeRbDzP2wGRh9xWJdMXcoyghBZBv5fWW~0IdhMrHZHjTSnKsAIF1SMbeSH5Q17loU42fXBuhzsIGN0ZzwtMHQWO7vdKeB5qpQ1-4Z1PbVDKO4dmjXR0hVVQwDKn9vOo62pwV-m9OIkt7dDUfGGcxeIFaKujWupAup5jphoPpNXhaVsNo6n9vmFDghz7d~C86lYcEd-jNQMarFzu3FvmHxu5rD1~POrPnSOeKfsugnjpHCbGKpmyQ__;
 #EXTHTTP:{"Cookie": "CloudFront-Key-Pair-Id=KW3JO22BKUDKB; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNhY2NpYS5jYWNjaWFlcGVzY2EudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTE5NzQwNH19fV19; CloudFront-Signature=ePqoJj2Hb12QuCcVaJhy-wduhlT-8m-TI3ZvnzzSOIESVcbBTuikDvNgzDyO706MFTRfsAkW5SB4LubhXRr1fmLRJrRRzs4aCvbeRbDzP2wGRh9xWJdMXcoyghBZBv5fWW~0IdhMrHZHjTSnKsAIF1SMbeSH5Q17loU42fXBuhzsIGN0ZzwtMHQWO7vdKeB5qpQ1-4Z1PbVDKO4dmjXR0hVVQwDKn9vOo62pwV-m9OIkt7dDUfGGcxeIFaKujWupAup5jphoPpNXhaVsNo6n9vmFDghz7d~C86lYcEd-jNQMarFzu3FvmHxu5rD1~POrPnSOeKfsugnjpHCbGKpmyQ__;"}
@@ -771,7 +789,7 @@ https://abndy7jaaaaaaaamb5sbzman2g3xq.bia-cf.live.pv-cdn.net/lhr-nitro/live/clie
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-ak-livedazn.akamaized.net/@st%3D1781161205~exp%3D1781247605~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dproto%3Ddash%23country%3Dit%23asn%3D3269%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3D68f09ab29ae3966d8e3b5ad891aa3878370e8ef9f4b49e2e5b3530a0153f2f60/dash/dazn-linear-206/stream.mpd?p=tv
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODEyNjkyMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sImlhdCI6MTc4MTE4MjgwNH0.V1KwicSyLSqxTWpDTYwfLuLXi4FvHH6XVYaaiO-FZ-Q/dash/dazn-linear-206/stream.mpd?p=tv
 
 #EXTINF:-1 group-title="DAZN LINEARI" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/dazn.sport1.png?raw=true" tvg-id="Inter.TV.it",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
