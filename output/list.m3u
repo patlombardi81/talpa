@@ -970,6 +970,11 @@ https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJl
 #KODIPROP:inputstream.adaptive.license_key=7e702ae824b45ff389244e09bf0aa9cb:e419f6cd4e4aa6b43548252a01fe8cd5
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781195104~exp%3D1781281504~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dcf82757f8b54f1feaaea9896ef3ebc6f2d422607cc2d3f9d7ae4929b49e0b148%23wm%3D0~hmac%3D9d831e15310f71fd8297d09b9ed57e103342474aa4e2d375db4aa6218b97b89c/1oern5ek6yjfe1s08ko8pd0396/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 group-title="DAZN VOLLEYBALL NATIONS LEAGUE (M)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5mfmmkxs4l9tw8g2hje5wdj6u_image-header_pIt_1779981395000/fill/none/top/none/100/1280/720/png/image",Germania - Italia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=173f33a98f6851179414a2fe90d93caf:8089adeafba53fb2a6e998a4a8c53683
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781207406~exp%3D1781293806~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1bdda1bff3c5cf42d63c08b4ec85842ddb71004e95dc1d5f927e91dab3cc0991%23wm%3D0~hmac%3D0ca4778f04f84755900d72036564d1e90e5095d746ef4635eab97f393a7accce/1e9579vseul6z19sqnv3lhaa6w/web/stream.mpd?channel=3931&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0516fc1198cb33a1b5b42aef856169d7":"9c9b3cfd10c043c849897e61e53ec166"}
