@@ -980,6 +980,11 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781195104~exp%3D1781281504~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=173f33a98f6851179414a2fe90d93caf:8089adeafba53fb2a6e998a4a8c53683
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781207406~exp%3D1781293806~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1bdda1bff3c5cf42d63c08b4ec85842ddb71004e95dc1d5f927e91dab3cc0991%23wm%3D0~hmac%3D0ca4778f04f84755900d72036564d1e90e5095d746ef4635eab97f393a7accce/1e9579vseul6z19sqnv3lhaa6w/web/stream.mpd?channel=3931&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 group-title="DAZN COPPA DEL MONDO FIFA" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18y161qh0tvr5n1k9ahdj5ui5_image-header_pIt_1781126112000/fill/none/top/none/100/1280/720/png/image",Corea del Sud - Repubblica Ceca
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98923c9657fd5db5abb4c076aeda3869:2f9b277a1dfecd9c1d8554b16debd6ff
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781228705~exp%3D1781315105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da1553ede8d9037b85c9f404f70b4fdfa011ce8ddfc92c390f5f1408f1104db55%23wm%3D0~hmac%3D65ddb2cda9f0941cad7575f12299a74d72c12fa4d4e222a5f6e7002f957f97d0/3zq05ezf58g81tpgsqdllosiv/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0516fc1198cb33a1b5b42aef856169d7":"9c9b3cfd10c043c849897e61e53ec166"}
