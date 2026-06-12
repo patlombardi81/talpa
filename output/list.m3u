@@ -915,6 +915,11 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781233205~exp%3D1781319605~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=ca0c57c03f505ba9a296335aabde7b2f:ba8a76c22c084dd64338dd1a6996e801
 https://dca-de-livedazn.daznedge.net/@tend%3A1781351410~geo%3AIT~asn%3A16232~path%3A1_1_95c81495895b089b714f2fe33ed1e7b6f2d1cfaff6e5bc57076f237ae5022c26~id%3Ac455b0b765db~tk3%3A227bc0e366ef5dabcf4c9120b17ed24769451b5a15529fd4a2274db0e49b3ded/aypcapb0ewti180c93hw38ihf/web/stream.mpd?channel=5065&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 group-title="DAZN COPPA DEL MONDO FIFA" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/gode7eziwfsnmh2rplkee2ur_image-header_pIt_1780823656000/fill/none/top/none/100/1280/720/png/image",Tutti Convocati
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fda5fdb02429548495a92de169ee2e31:961d17648cc157481565aec3d37406c4
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781265905~exp%3D1781352305~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc082af0016b5fd62905e239289efd2ebae56d6d90976632ccd7440dd43ba47a5%23wm%3D0~hmac%3D5f71d8fd5b3ec8d5cdbe73ee80c9506658f0d35806ee4f578382fcf462dbc5bd/1vf1u09428a7b17av54hu6ikzb/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0516fc1198cb33a1b5b42aef856169d7":"9c9b3cfd10c043c849897e61e53ec166"}
