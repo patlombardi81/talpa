@@ -789,7 +789,7 @@ https://abndy7jaaaaaaaamb5sbzman2g3xq.bia-cf.live.pv-cdn.net/lhr-nitro/live/clie
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODEzODgwMDUsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sImlhdCI6MTc4MTMwMTYwNX0.jK4I43aM9UoBOBXfcjzfRO1uOGjR7JX2qVgmDe8xr8g/dash/dazn-linear-206/stream.mpd?p=tv
+https://dct-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODEzOTg4MDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5Il0sImlhdCI6MTc4MTMxMjQwNH0.g_DyJ7IjPwYwFcj51TL4v4vaO6hWxaqN_3sUUT9JL9c/dash/dazn-linear-206/stream.mpd?p=tv
 
 #EXTINF:-1 group-title="DAZN LINEARI" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/dazn.sport1.png?raw=true" tvg-id="Inter.TV.it",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -999,6 +999,11 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781284504~exp%3D1781370904~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db2aa48110b95172925ae635e157b5a6:3a450740fb28bef2dcaa63318a95cd32
 https://dca-de-livedazn.daznedge.net/@tend%3A1781380505~geo%3AIT~asn%3A16232~path%3A1_1_6763504ac6af616036e71fad14474624414786ac5f78b34560fca739d00dc446~id%3Ac455b0b765db~tk3%3Ac1ea5a971c6cf9ed5fb64e18fd416526c0e0b96ce4c7119e2b04804feafd5160/z9hd159ex6921rcccd9fhic2y/web/stream.mpd?channel=5064&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 group-title="DAZN COPPA DEL MONDO FIFA" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/581udfk5ui9kwjmmtlnz0bkz6_image-header_pIt_1781126112000/fill/none/top/none/100/1280/720/png/image",USA - Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b0e740cec395f20bc1fe1bac43277a7:b0456211e79291d1c0e39eb029e925e9
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781311205~exp%3D1781397605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D02b8b2c5e0b50874dbe46b431aff3fde81a826bd0550c81dfbc221947ab3a26b%23wm%3D0~hmac%3Decdbc05ebe22382881abed12258d16b67d509d5dcb406b1f5a6c6d1312ea841e/15z57erxvu5bm1or1v38bel4km/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
