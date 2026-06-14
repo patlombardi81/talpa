@@ -1055,6 +1055,11 @@ https://dca-ac-live.cdn.indazn.com/dugongeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImt
 #KODIPROP:inputstream.adaptive.license_key=db79de2171ba593b8db28c9260cc4054:84ea3a6dbf9635b8fb06f75d2ed213b7
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781387405~exp%3D1781473805~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd9b07238508b84990b53ec6f6add89df6a6e6c8baab794826ab994e93f7ecefd%23wm%3D0~hmac%3Db8553b03fc6485da3e92f1b65173daf470304b18a6502ac7a196d960207ce3b0/r2ckxxjcovt618wc63bcxchva/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 group-title="DAZN VOLLEYBALL NATIONS LEAGUE (M)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4euib33gtahx4ujvsc7s8xdmi_image-header_pIt_1779981385000/fill/none/top/none/100/1280/720/png/image",Turchia - Italia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d833b196555bada5450d46c2da2f3b:bbcd469d8f65da3273d6f3b4c44ef835
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781392805~exp%3D1781479205~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6bbb94b7591dfb209e4ef6a5132bd9cb8226ab0c7104cf41beaab4159c7c3328%23wm%3D0~hmac%3Dc24176e9b1e8566a3a61b127500ddf568ffe5df68afcc3496b9964ca71236c27/a3l4di1luzy01ln0bxrkqmnpt/web/stream.mpd?channel=3929&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 group-title="SUNRISE ITALIANE" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/list4_boing.png",Boing HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0516fc1198cb33a1b5b42aef856169d7":"9c9b3cfd10c043c849897e61e53ec166"}
